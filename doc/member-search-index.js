@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"gitrepas2","c":"Empleat","l":"Empleat(String, String, double)","u":"%3Cinit%3E(java.lang.String,java.lang.String,double)"},{"p":"gitrepas2","c":"Empleat","l":"pujadaSou(double)"}];updateSearchResults();
